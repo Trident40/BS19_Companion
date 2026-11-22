@@ -278,3 +278,4 @@ pm2 startup
 
 - **BS19 - Companion** — **Developed by Trident40**
 - Built natively for **BeyondSurvival (`Arcainex/bs19`)**
+- **https://github.com/Arcainex/bs19 **
