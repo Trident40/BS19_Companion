@@ -1,0 +1,20 @@
+{
+  "name": "bs19-companion",
+  "version": "1.2.0",
+  "author": "Trident40",
+  "description": "BS19 - Companion (Developed by Trident40) — Discord.js v14 Bot, Express Webhook Receiver, Interactive Verify Panel, Faction/Rank Role & Nickname Sync, and Native BS19 MySQL Queries",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.28.0",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.4"
+  }
+}
